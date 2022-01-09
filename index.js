@@ -52,4 +52,4 @@ window.addEventListener("DOMContentLoaded", function() {
     info.textContent = item.text;
 })
 
-prevBtn.addEventListener
+prevBtn.addEventListener("click", )
