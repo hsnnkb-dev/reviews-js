@@ -52,4 +52,6 @@ window.addEventListener("DOMContentLoaded", function() {
     info.textContent = item.text;
 })
 
-prevBtn.addEventListener("click", )
+prevBtn.addEventListener("click", function() {
+    console.log("1");
+})
