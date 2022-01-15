@@ -53,5 +53,5 @@ window.addEventListener("DOMContentLoaded", function() {
 })
 
 prevBtn.addEventListener("click", function() {
-    //console.log("1");
+    console.log("1");
 })
